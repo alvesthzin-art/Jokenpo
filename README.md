@@ -40,7 +40,7 @@ O jogo segue as regras tradicionais:
 1. Certifique-se de ter o **JDK** instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/alvesthzin-art/nome-do-repositorio.git](https://github.com/alvesthzin-art/nome-do-repositorio.git)
+   git clone [[https://github.com/alvesthzin-art/nome-do-repositorio.git](https://github.com/alvesthzin-art/nome-do-repositorio.git](https://github.com/alvesthzin-art/Jokenpo.git))
 Compile o arquivo:
 
 Bash
